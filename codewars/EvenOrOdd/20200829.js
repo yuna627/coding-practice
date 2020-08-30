@@ -5,7 +5,3 @@ function even_or_odd(num) {
     return "Odd";    
   }
 }
-
-function even_or_odd(number) {
-  return number % 2 ? "Odd" : "Even"
-}
